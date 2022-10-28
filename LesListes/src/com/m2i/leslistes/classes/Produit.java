@@ -5,7 +5,7 @@ public class Produit {
 	private String description;
 	private float prix;
 	private int quantite;
-	// Ca marche
+	// push
 	public String getNom() {
 		return nom;
 	}
